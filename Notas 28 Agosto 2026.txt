@@ -1,0 +1,32 @@
+1.2 LISTAS, VECTORES Y MATRICES
+
+Arreglos: Listas, n-adas, arreglos numpy
+
+Listas en Python son de longitud variable
+
+Listas dentro de listas: Matrices
+
+Puedes definir listas con operaciones dentro. 
+
+Puedes recorrer los elementos de una lista para poder operarlos.
+
+DUDA: ¿Por que si la resta es 0.3, pone 0.2999999999? (PRINT 28)
+
+Por el error de redondeo
+
+DUDA: ¿Cómo funciona la función round? A que se refiere con precisión?
+
+El numero dentro de la función dice a cuantos se redondeara 
+
+DUDA: ¿POR QUE SI EL PROMEDIO ES 0.1 SALE 0.999999? (PRINT 40)
+
+Por el error de redondeo
+
+
+Los arrays son vectoressssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+
+La multiplicación de arrays es entrada a entrada 
+
+
+
+
